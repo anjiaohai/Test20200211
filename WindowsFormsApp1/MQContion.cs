@@ -40,8 +40,8 @@ namespace WindowsFormsApp1
         /// </summary>
         public void se24Test(){
             String Temp1 = "开始";
-
-
+            String Temp2 = "开始";
+            String Temp2 = "测试11";
         }
         
         /// <summary>
