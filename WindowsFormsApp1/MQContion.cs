@@ -50,8 +50,7 @@ namespace WindowsFormsApp1
         /// </summary>
         public void TestVoid1()
         {
-            String Temp1 = "1111";
-            String Temp2 = "1111";
+            String TempSE24 = "11111";
         }
         
        
