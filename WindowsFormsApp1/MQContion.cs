@@ -51,6 +51,8 @@ namespace WindowsFormsApp1
         public void TestVoid1()
         {
             String TempSE24 = "11111";
+
+            String TempEnd = "合并演示";
         }
         
        
